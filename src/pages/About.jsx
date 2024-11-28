@@ -7,7 +7,7 @@ function About() {
           <img className="w-full h-full" src="./about_us.jpg" alt="" />
         </div>
         <div>
-          <h1 className="text-3xl font-bold mb-2">Our Story</h1>
+          <h1 className="text-4xl font-bold mb-2">Our Story</h1>
           <p>
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab
             voluptatum beatae fugiat itaque iure perspiciatis? Veniam, placeat
